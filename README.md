@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,24&height=300&section=header&text=Ankit%20Haldar&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Data%20Scientist%20%7C%20Problem%20Solver%20%7C%20Innovation%20Enthusiast&descSize=18&descAlignY=51" width="100%"/>
+  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*kHAyTN_AfGjWDu0MOed1cw.gif" width="100%"/>
 </div>
 
 <div align="center">
