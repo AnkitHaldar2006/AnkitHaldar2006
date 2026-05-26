@@ -57,23 +57,45 @@ int main() {
 </div>
 
 ---
+## 🛠️ Tech Arsenal
 
-## 🔧 Tech Stack
-
-### 💻 Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,mysql" alt="Tech Stack"/>
-</div>
-
-### 🎯 Core Skills
-<div align="center">
-  <img src="https://img.shields.io/badge/Data_Science-FF6F61?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Science"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-FFB800?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Algorithms-4B8BBE?style=for-the-badge&logo=thealgorithms&logoColor=white" alt="Algorithms"/>
-  <img src="https://img.shields.io/badge/Problem_Solving-06BA63?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problem Solving"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=600&size=18&pause=1000&color=F75C7E&center=true&vCenter=true&width=400&lines=Languages+%7C+Web+%7C+Tools" alt="Tech Arsenal"/>
 </div>
 
 ---
+
+<div align="center">
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java&theme=dark&perline=4" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌐 Web Technologies
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=3" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚙️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=github,git,vscode,idea&theme=dark&perline=4" />
+
+</div>
+
+---
+
+
 
 ## 📊 GitHub Statistics
 
@@ -143,14 +165,6 @@ int main() {
 </div>
 
 <br>
-
----
-
-## 💻 LeetCode Stats
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/ankit_haldar?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats"/>
-</div>
 
 ---
 
