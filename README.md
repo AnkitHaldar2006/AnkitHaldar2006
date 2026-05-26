@@ -92,18 +92,18 @@ int main() {
 
 ---
 
-## 🎯 What I'm Up To
+## 🎯 Current Focus
 
 <div align="center">
 
-| Focus Area | Details |
-|:----------:|:--------|
-| 🔭 *Currently Working* | Mastering Data Structures & Algorithms |
-| 🌱 *Currently Learning* | Python Libraries & Advanced AI/ML Techniques |
-| 🤝 *Looking For* | Interesting Project Ideas & Collaborations |
-| 💡 *Interests* | Artificial Intelligence, Trending Technologies |
-| 📧 *Contact* | haldarankit2006@gmail.com |
-| ⚡ *Fun Fact* | I debug with determination and code with passion! |
+| | |
+|:---:|:---|
+| 🔭 | **Building** → Sharpening my DSA skills one problem at a time |
+| 🌱 | **Exploring** → Diving deep into Python & Data Science |
+| 🤝 | **Open to** → Collaborating on meaningful projects |
+| 💡 | **Passionate about** → Turning raw data into real decisions |
+| 📧 | **Let's talk** → haldarankit2006@gmail.com |
+| ⚡ | **Secret weapon** → I treat every bug as a puzzle, not a problem |
 
 </div>
 
@@ -136,11 +136,9 @@ int main() {
   </a>
   <a href="https://linkedin.com/in/ankit-haldar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
- 
-  <a href="https://x.com/AnkitHaldar2006">
-    <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+<a href="https://x.com/AnkitHaldar2006">
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
-
   
 </div>
 
