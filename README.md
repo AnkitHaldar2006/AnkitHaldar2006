@@ -17,19 +17,40 @@
 
 ## 👨‍💻 About Me
 
-```python
-class AnkitHaldar:
-    def _init_(self):
-        self.name = "Ankit Haldar"
-        self.role = "Aspiring Data Scientist"
-        self.location = "India 🇮🇳"
-        self.education = "Continuous Learner"
-        self.languages = ["Python", "C", "C++", "SQL"]
-        self.current_focus = ["DSA", "AI/ML"]
-def say_hi(self):
-    print("Let's innovate together! Feel free to reach out 🚀")
-ankit = AnkitHaldar()
-ankit.say_hi()
+
+```cpp
+#include <iostream>
+#include <vector>
+using namespace std;
+
+class AnkitHaldar {
+public:
+    string name;
+    string role;
+    string location;
+    string education;
+    vector<string> languages;
+    vector<string> current_focus;
+
+    AnkitHaldar() {
+        name          = "Ankit Haldar";
+        role          = "Aspiring Data Scientist";
+        location      = "Kolkata, India 🇮🇳";
+        education     = "Passionate Self-Learner";
+        languages     = {"C", "C++", "Java", "Python", "Upcoming..."};
+        current_focus = {"DSA"};
+    }
+
+    void say_hi() {
+        cout << "Still learning, always growing — glad you're here for the journey! 🌱";
+    }
+};
+
+int main() {
+    AnkitHaldar me;
+    me.say_hi();
+    return 0;
+}
 ```
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ankithaldar2006&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
