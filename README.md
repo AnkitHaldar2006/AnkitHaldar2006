@@ -169,8 +169,9 @@ int main() {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,24&height=120&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnE1NjY0NWJkZTNsNW1jOWZjNmV1MXRwdGkxMWVobjFiZXJxYzd2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gJI0YkRa8dcK3OP7pc/giphy.gif" width="500" alt="gif"/>
 </div>
+
 
 <div align="center">
   
