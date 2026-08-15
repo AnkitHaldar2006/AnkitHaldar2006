@@ -66,54 +66,115 @@ int main() {
 <br/>
 
 ### ☁️ Cloud & Infrastructure
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="65" height="65" style="margin: 0 14px;" />
-</p>
+
+<table align="center" border="0" style="border: none; background: transparent;">
+  <tr align="center">
+    <td align="center" width="160" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="56" height="56" /><br/>
+      <sub><b>AWS Cloud Domain</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 💻 Programming Languages
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="48" height="48" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 0 10px;" />
-</p>
 
----
-
-### 🌐 Web Technologies
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 0 10px;" />
-</p>
+<table align="center" border="0" style="border: none; background: transparent;">
+  <tr align="center">
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="48" height="48" /><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="48" height="48" /><br/>
+      <sub><b>C</b></sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" /><br/>
+      <sub><b>C++</b></sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="48" height="48" /><br/>
+      <sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="48" height="48" /><br/>
+      <sub><b>HTML</b></sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="48" height="48" /><br/>
+      <sub><b>CSS</b></sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" /><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📊 Data Science
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="56" height="56" style="margin: 0 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" width="56" height="56" style="margin: 0 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" width="56" height="56" style="margin: 0 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="56" height="56" style="margin: 0 12px;" />
-</p>
+
+<table align="center" border="0" style="border: none; background: transparent;">
+  <tr align="center">
+    <td align="center" width="110" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="50" height="50" /><br/>
+      <sub><b>Jupyter</b></sub>
+    </td>
+    <td align="center" width="110" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50" /><br/>
+      <sub><b>NumPy</b></sub>
+    </td>
+    <td align="center" width="110" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="50" height="50" /><br/>
+      <sub><b>Pandas</b></sub>
+    </td>
+    <td align="center" width="110" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50" /><br/>
+      <sub><b>Matplotlib</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🗄️ Database
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="65" height="65" style="margin: 0 14px;" />
-</p>
+
+<table align="center" border="0" style="border: none; background: transparent;">
+  <tr align="center">
+    <td align="center" width="120" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="56" height="56" /><br/>
+      <sub><b>MySQL</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🛠️ Tools & Platforms
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="48" height="48" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="48" height="48" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="48" height="48" style="margin: 0 10px;" />
-</p>
+
+<table align="center" border="0" style="border: none; background: transparent;">
+  <tr align="center">
+    <td align="center" width="110" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="48" height="48" /><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="110" style="border: none;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="48" height="48" />
+      </picture><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="110" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48" /><br/>
+      <sub><b>VS Code</b></sub>
+    </td>
+  </tr>
+</table>
 
 <!-- ========================================== -->
 
