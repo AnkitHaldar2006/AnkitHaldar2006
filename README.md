@@ -71,7 +71,7 @@ int main() {
   <tr align="center">
     <td align="center" width="160" style="border: none;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="56" height="56" /><br/>
-      <sub><b>AWS Cloud Domain</b></sub>
+      <sub><b>AWS Cloud </b></sub>
     </td>
   </tr>
 </table>
